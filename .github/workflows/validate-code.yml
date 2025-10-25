@@ -1,0 +1,46 @@
+name: Validate Learning Materials
+
+on:
+  push:
+    branches: [ main, develop ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install markdown-link-check markdownlint-cli yamllint
+
+    - name: Validate Markdown links
+      run: |
+        find . -name "*.md" -not -path "./node_modules/*" | xargs markdown-link-check --config .markdown-link-check.json || true
+
+    - name: Lint Markdown files
+      run: |
+        markdownlint '**/*.md' --ignore node_modules || true
+
+    - name: Validate YAML files
+      run: |
+        find . -name "*.yml" -o -name "*.yaml" | xargs yamllint || true
+
+    - name: Check for broken references
+      run: |
+        echo "Checking for broken cross-references..."
+        python scripts/validate_references.py || true
+
+    - name: Validate architecture diagrams
+      run: |
+        echo "Checking for architecture diagram references..."
+        python scripts/validate_diagrams.py || true

@@ -8,8 +8,27 @@ Architecture Communication and Leadership is a critical component of the AI Infr
 
 ## Learning Objectives
 
-1. Present to executives
-2. Lead governance
+By the end of this module, you will be able to:
+
+1. **Present architecture to executive leadership** crafting business-focused narratives, articulating ROI and strategic value, communicating risks and trade-offs, and securing executive buy-in for multi-million dollar AI infrastructure investments
+
+2. **Create comprehensive architecture documentation** designing C4 diagrams (context, container, component, code), architecture decision records (ADRs), sequence diagrams, and deployment views communicating complex systems to diverse audiences
+
+3. **Lead architecture review boards (ARB)** facilitating collaborative design reviews, evaluating proposals against standards, managing dissent, and building consensus across engineering, product, security, and executive stakeholders
+
+4. **Design visual communication strategies** using diagrams, charts, dashboards, and presentations effectively tailoring visual complexity to audience technical sophistication maximizing comprehension and engagement
+
+5. **Establish architecture governance frameworks** defining standards, review processes, exception handling, and escalation paths ensuring architectural consistency and quality across enterprise AI initiatives
+
+6. **Influence without authority** building credibility through technical excellence, leveraging data and evidence, forming coalitions, and navigating organizational politics to drive architectural change
+
+7. **Communicate technical risk** articulating security vulnerabilities, scalability concerns, technical debt, and architectural anti-patterns in business terms enabling informed decision-making by non-technical leaders
+
+8. **Facilitate technical strategy sessions** conducting architecture workshops, leading design sprints, facilitating trade-off discussions, and building shared understanding across cross-functional teams
+
+9. **Write compelling technical proposals** structuring RFCs (Request for Comments), architecture proposals, and technical strategy documents persuasively addressing business objectives, technical requirements, and implementation roadmaps
+
+10. **Navigate organizational change** managing stakeholder resistance, communicating transformation roadmaps, celebrating wins, addressing concerns, and sustaining momentum for large-scale architecture modernization initiatives
 
 ---
 

@@ -8,9 +8,27 @@ Enterprise Architecture Fundamentals is a critical component of the AI Infrastru
 
 ## Learning Objectives
 
-1. Apply TOGAF ADM
-2. Create architecture docs
-3. Lead governance
+By the end of this module, you will be able to:
+
+1. **Design enterprise-wide AI infrastructure architectures** using TOGAF Architecture Development Method (ADM) across multiple business units, evaluating technology stacks, governance frameworks, and enterprise risk management
+
+2. **Architect reference architectures** applying Zachman Framework principles creating reusable patterns for ML platforms, data pipelines, and AI services ensuring consistency across organizational portfolios
+
+3. **Establish architecture governance frameworks** defining Architecture Review Board (ARB) processes, decision-making authorities, standards compliance, and exception handling procedures for enterprise-scale AI initiatives
+
+4. **Create comprehensive architecture documentation** including context diagrams, component architectures, deployment views, sequence flows, and Architecture Decision Records (ADRs) communicating technical decisions to diverse stakeholders
+
+5. **Evaluate and select enterprise architecture tools** assessing modeling platforms, repository systems, and collaboration tools based on functionality, scalability, integration capabilities, and organizational fit
+
+6. **Lead cross-functional architecture initiatives** facilitating stakeholder alignment, managing competing priorities, presenting to executive leadership, and building consensus across engineering, product, and business teams
+
+7. **Implement enterprise-scale design patterns** applying separation of concerns, loose coupling, modularity, and defense-in-depth principles to AI infrastructure supporting scalability, reliability, and security requirements
+
+8. **Strategize long-term technology roadmaps** analyzing emerging trends, evaluating architectural debt, planning modernization initiatives, and aligning technical evolution with business objectives and regulatory landscapes
+
+9. **Optimize enterprise architecture for cost efficiency** identifying cost drivers, implementing FinOps principles, right-sizing infrastructure, and establishing cost governance frameworks achieving measurable cost reductions
+
+10. **Navigate regulatory compliance requirements** architecting solutions meeting GDPR, HIPAA, SOC2 standards, implementing audit trails, data residency controls, and risk management frameworks for AI systems at enterprise scale
 
 ---
 

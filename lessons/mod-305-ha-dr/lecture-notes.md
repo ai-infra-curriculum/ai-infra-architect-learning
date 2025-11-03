@@ -8,8 +8,27 @@ High-Availability and Disaster Recovery Architecture is a critical component of 
 
 ## Learning Objectives
 
-1. Design 99.95%+ uptime systems
-2. Create DR plans
+By the end of this module, you will be able to:
+
+1. **Architect high-availability systems achieving 99.95%+ uptime** implementing redundancy, failover, load balancing, and fault tolerance patterns across compute, storage, networking, and application tiers for mission-critical AI infrastructure
+
+2. **Design comprehensive disaster recovery strategies** defining Recovery Time Objectives (RTO) and Recovery Point Objectives (RPO), implementing backup strategies, replication topologies, and automated failover mechanisms
+
+3. **Implement multi-region active-active architectures** distributing workloads across geographic regions, synchronizing data, routing traffic intelligently, and ensuring consistent user experience during regional outages
+
+4. **Architect resilient distributed systems** applying circuit breakers, retry logic, bulkheading, rate limiting, and graceful degradation patterns preventing cascading failures in microservices architectures
+
+5. **Establish chaos engineering practices** implementing controlled failure injection, game days, and continuous resilience testing using tools like Chaos Monkey validating system behavior under adverse conditions
+
+6. **Design business continuity frameworks** conducting impact analysis, defining criticality tiers, establishing incident response procedures, and creating runbooks for various disaster scenarios
+
+7. **Implement automated monitoring and alerting** deploying comprehensive health checks, SLI/SLO tracking, anomaly detection, and escalation procedures enabling proactive issue detection and rapid response
+
+8. **Architect data backup and recovery systems** implementing incremental backups, point-in-time recovery, cross-region replication, and backup testing procedures ensuring data durability and recoverability
+
+9. **Design failover automation** implementing health monitoring, automated traffic rerouting, stateless application design, and rapid provisioning strategies minimizing manual intervention during outages
+
+10. **Establish SLA frameworks** defining service level agreements, measuring availability metrics, conducting postmortem analyses, and implementing continuous improvement processes ensuring reliability commitments
 
 ---
 

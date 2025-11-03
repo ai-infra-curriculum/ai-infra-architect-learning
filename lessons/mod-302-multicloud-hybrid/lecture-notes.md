@@ -8,8 +8,27 @@ Multi-Cloud and Hybrid Architecture Design is a critical component of the AI Inf
 
 ## Learning Objectives
 
-1. Design multi-cloud architectures
-2. Optimize vendor selection
+By the end of this module, you will be able to:
+
+1. **Architect enterprise multi-cloud strategies** evaluating vendor dependencies, risk diversification, compliance requirements, and cost trade-offs creating comprehensive vendor selection frameworks for AI infrastructure
+
+2. **Design cloud-agnostic reference architectures** using abstraction layers, portable services, and standardized APIs enabling workload mobility across AWS, GCP, Azure, and private cloud environments minimizing vendor lock-in
+
+3. **Implement hybrid cloud architectures** integrating on-premises data centers with public cloud platforms designing secure connectivity (Direct Connect, ExpressRoute, VPN), workload orchestration, and data synchronization strategies
+
+4. **Establish multi-cloud networking topologies** architecting global transit gateways, VPC peering, service meshes, and SD-WAN solutions ensuring low-latency connectivity, security, and disaster recovery across cloud providers
+
+5. **Design multi-cloud data architectures** implementing cross-cloud data replication, governance frameworks, and sovereignty compliance using cloud-native and cloud-agnostic data platforms supporting global AI/ML workloads
+
+6. **Evaluate cloud provider capabilities** comparing compute (EC2 vs Compute Engine vs VMs), storage (S3 vs GCS vs Blob), ML services (SageMaker vs Vertex AI vs Azure ML), and pricing models making strategic vendor decisions
+
+7. **Architect multi-cloud security frameworks** implementing federated identity (SSO, SAML), cross-cloud encryption, unified security posture management, and compliance controls across heterogeneous cloud environments
+
+8. **Implement multi-cloud cost optimization strategies** using reserved capacity across vendors, cross-cloud resource scheduling, unified cost allocation, and FinOps dashboards achieving 20-40% cost reductions
+
+9. **Design disaster recovery and failover architectures** implementing active-active and active-passive patterns across cloud providers, orchestrating automated failover, and ensuring RPO/RTO compliance for mission-critical AI systems
+
+10. **Lead multi-cloud migration initiatives** developing migration strategies (rehost, replatform, refactor), executing phased transitions, managing vendor negotiations, and establishing cloud center of excellence (CCoE) governance
 
 ---
 

@@ -587,3 +587,22 @@ See [resources/reading-list.md](./resources/reading-list.md) for comprehensive l
 ---
 
 **Questions?** Open a discussion on GitHub or email ai-infra-curriculum@joshua-ferguson.com
+
+---
+
+## Requirement-to-Module Mapping
+
+| Job Requirement | Curriculum Coverage |
+| --- | --- |
+| Design end-to-end architecture for enterprise-scale AI/ML platforms | Module 301 - Enterprise Architecture Foundations<br>Module 306 - Enterprise MLOps Architecture<br>Project 301 - Enterprise MLOps Platform Blueprint |
+| Define technical strategy and roadmap for AI infrastructure | Module 309 - Architecture Communication & Roadmaps<br>Module 310 - Emerging Technology Evaluation<br>Project 305 - Security & Governance Framework |
+| Architect multi-cloud and hybrid AI deployment solutions | Module 302 - Multicloud & Hybrid Architectures<br>Module 305 - High Availability & DR<br>Project 302 - Multicloud Infrastructure Reference |
+| Design high-availability, fault-tolerant ML systems for mission-critical applications | Module 305 - High Availability & DR<br>Module 303 - Security & Compliance Architecture<br>Project 302 - Multicloud Infrastructure Reference |
+| Establish architectural patterns and standards for ML infrastructure | Module 301 - Enterprise Architecture Foundations<br>Module 306 - Enterprise MLOps Architecture<br>Module 309 - Architecture Communication & Roadmaps |
+| Lead evaluation and selection of AI/ML technologies and platforms | Module 308 - LLM & RAG Reference Architectures<br>Module 310 - Emerging Technology Evaluation<br>Project 303 - LLM RAG Platform Reference |
+| Design cost-optimization strategies for large-scale AI workloads | Module 304 - Cost Optimization & FinOps<br>Module 305 - High Availability & DR<br>Project 304 - Data Platform Reference Architecture |
+| Create security and compliance architecture for AI systems | Module 303 - Security & Compliance Architecture<br>Module 307 - Data Platform Architecture<br>Project 305 - Security & Governance Framework |
+| Collaborate with business leaders to translate requirements into technical architecture | Module 301 - Enterprise Architecture Foundations<br>Module 309 - Architecture Communication & Roadmaps<br>Project 301 - Enterprise MLOps Platform Blueprint |
+| Design scalable feature stores and real-time data platforms | Module 307 - Data Platform Architecture<br>Module 306 - Enterprise MLOps Architecture<br>Project 304 - Data Platform Reference Architecture |
+| Architect model lifecycle management and governance frameworks | Module 306 - Enterprise MLOps Architecture<br>Module 303 - Security & Compliance Architecture<br>Project 305 - Security & Governance Framework |
+| Design disaster recovery and business continuity strategies for AI systems | Module 305 - High Availability & DR<br>Module 302 - Multicloud & Hybrid Architectures<br>Project 302 - Multicloud Infrastructure Reference |

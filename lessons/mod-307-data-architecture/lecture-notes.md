@@ -8,8 +8,27 @@ Data Architecture and Engineering for AI is a critical component of the AI Infra
 
 ## Learning Objectives
 
-1. Design data platforms
-2. Implement governance
+By the end of this module, you will be able to:
+
+1. **Architect enterprise data lakehouse platforms** designing unified analytics systems combining data lake flexibility with data warehouse performance using Delta Lake, Apache Iceberg, or Apache Hudi supporting petabyte-scale AI/ML workloads
+
+2. **Design real-time streaming architectures** implementing Kafka, Kinesis, or Pub/Sub for event-driven ML systems, stream processing (Flink, Spark Streaming), and Lambda/Kappa architectures enabling real-time model inference and feature computation
+
+3. **Establish data governance frameworks** implementing data cataloging (Alation, Collibra), lineage tracking, quality monitoring, and access policies ensuring data discoverability, trust, and compliance across organization
+
+4. **Architect data mesh patterns** applying domain-oriented decentralized data ownership, data as a product, self-service infrastructure, and federated computational governance enabling scalable data architecture
+
+5. **Design data integration pipelines** implementing ELT/ETL workflows, change data capture (CDC), data validation, and orchestration supporting batch and real-time data movement across heterogeneous sources
+
+6. **Implement master data management (MDM)** designing entity resolution, golden records, data quality rules, and synchronization strategies ensuring consistent customer, product, and reference data across enterprise
+
+7. **Architect data privacy and security** implementing encryption, tokenization, data masking, row/column-level security, and audit logging protecting sensitive data while enabling analytics and ML
+
+8. **Design data platform infrastructure** selecting storage systems (S3, HDFS, GCS), compute engines (Spark, Presto, BigQuery), and orchestration tools optimizing for performance, cost, and scalability
+
+9. **Establish data quality frameworks** implementing automated validation, anomaly detection, schema evolution, and data observability ensuring high-quality data for AI/ML model training and inference
+
+10. **Lead data platform strategy** evaluating build vs buy decisions, managing vendor relationships, defining data architecture standards, and aligning data infrastructure with business objectives and AI/ML roadmap
 
 ---
 

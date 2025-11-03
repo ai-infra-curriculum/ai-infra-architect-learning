@@ -72,6 +72,9 @@ ai-infra-architect-learning/
 │   ├── tools.md
 │   └── references.md
 ├── CURRICULUM.md            # Detailed curriculum guide
+├── REMEDIATION_PLAN.md      # Curriculum improvement roadmap
+├── LESSON_EXERCISE_MAPPING.md  # Exercise-to-lecture mappings
+├── SOLUTION_AVAILABILITY.md # Solutions documentation
 └── CONTRIBUTING.md          # Contribution guidelines
 ```
 
@@ -131,6 +134,26 @@ As an AI Infrastructure Architect, you will:
 - Mentor architects and senior engineers
 - Drive architectural improvements across teams
 - Lead architecture review boards
+
+## Documentation
+
+This repository includes comprehensive documentation to guide your learning:
+
+- **[LESSON_EXERCISE_MAPPING.md](./LESSON_EXERCISE_MAPPING.md)**: Complete mapping between lecture content and exercises, showing which lecture sections each exercise reinforces
+- **[SOLUTION_AVAILABILITY.md](./SOLUTION_AVAILABILITY.md)**: Transparent documentation of solution availability for all 50 exercises and 5 projects
+- **[REMEDIATION_PLAN.md](./REMEDIATION_PLAN.md)**: Roadmap for continuous curriculum improvement
+
+### Exercise and Solution Information
+
+**Module Exercises**: All 50 exercises (5 per module) are currently self-directed with no formal solutions. However, you have access to:
+- Comprehensive architecture templates and frameworks in the solutions repository
+- 5 complete major projects with full architecture artifacts
+- Exercise-to-project mapping showing which projects support each exercise
+- Detailed guides (11,500+ lines) on architecture patterns, communication, and cost analysis
+
+**Major Projects**: All 5 capstone projects have complete solutions with architecture diagrams, ADRs, business cases, and reference implementations
+
+See [SOLUTION_AVAILABILITY.md](./SOLUTION_AVAILABILITY.md) for complete details on leveraging available resources for self-directed learning.
 
 ## Getting Started
 

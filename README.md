@@ -431,3 +431,9 @@ This curriculum was developed through research of real-world job requirements, i
 ---
 
 **Ready to become an AI Infrastructure Architect?** [Start with Module 301 →](./lessons/mod-301-enterprise-architecture/)
+
+
+---
+
+<!-- aicg:maintained-by -->
+Maintained by [VeriSwarm.ai](https://veriswarm.ai)
